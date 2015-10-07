@@ -1,0 +1,9 @@
+c:\users\philippk\documents\visual studio 2013\Projects\coe_fastTest\coe_fastTest\bin\Debug\coe_fastTest.exe.config
+C:\Users\PhilippK\documents\visual studio 2013\Projects\coe_fastTest\coe_fastTest\bin\Debug\coe_fastTest.exe
+C:\Users\PhilippK\documents\visual studio 2013\Projects\coe_fastTest\coe_fastTest\bin\Debug\coe_fastTest.pdb
+C:\Users\PhilippK\documents\visual studio 2013\Projects\coe_fastTest\coe_fastTest\obj\Debug\coe_fastTest.csprojResolveAssemblyReference.cache
+C:\Users\PhilippK\documents\visual studio 2013\Projects\coe_fastTest\coe_fastTest\obj\Debug\coe_fastTest.Form1.resources
+C:\Users\PhilippK\documents\visual studio 2013\Projects\coe_fastTest\coe_fastTest\obj\Debug\coe_fastTest.Properties.Resources.resources
+C:\Users\PhilippK\documents\visual studio 2013\Projects\coe_fastTest\coe_fastTest\obj\Debug\coe_fastTest.csproj.GenerateResource.Cache
+C:\Users\PhilippK\documents\visual studio 2013\Projects\coe_fastTest\coe_fastTest\obj\Debug\coe_fastTest.exe
+C:\Users\PhilippK\documents\visual studio 2013\Projects\coe_fastTest\coe_fastTest\obj\Debug\coe_fastTest.pdb
